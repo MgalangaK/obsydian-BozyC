@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "54fcbc40b657181c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e73abec3aff6a159",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TempleOS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbe3ff5079a89ad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4bf5b5045c8799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188b44650defeed2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7588aef47f96ff75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82056fe1a7274f52",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b346c0761b27e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "62217f3ee93b49b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dee5a8c4840ca04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TempleOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4716eecbaf2f7b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TempleOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b82e7061c67f4bff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "635db43869686cc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TempleOS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e73abec3aff6a159",
+  "lastOpenFiles": [
+    "Terrence Andrew Davis.md",
+    "TempleOS.md",
+    "HolyC.md",
+    "assembly x86.md",
+    "2022-09-30.md"
+  ]
+}
